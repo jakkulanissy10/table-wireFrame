@@ -45,7 +45,7 @@ class Table extends Component {
         {/* Button to add new rows */}
         <button
           onClick={this.toAddRow}
-          style={{ marginTop: '20px', padding: '10px 20px' }}
+          style={{ marginTop: '20px', padding: '9px 20px' }}
         >
           + Add New Row
         </button>
